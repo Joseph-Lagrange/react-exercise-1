@@ -1,0 +1,21 @@
+@import 'styles/variables.scss';
+@import 'styles/main.scss';
+
+.body {
+  text-align: left;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 5px 30px;
+}
+
+td:nth-child(1) h2 {
+  margin-left: 0;
+  margin-top: -40px;
+}
+
+td:nth-child(2) {
+  background-color: $gray;
+}
+

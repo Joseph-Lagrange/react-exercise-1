@@ -1,0 +1,20 @@
+@import 'styles/variables.scss';
+@import 'styles/main.scss';
+
+.head {
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+  margin-top: -75px;
+}
+
+hr {
+  height: 4px;
+  border: 0;
+  background-color: $gray;
+}
