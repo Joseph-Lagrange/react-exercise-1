@@ -28,4 +28,3 @@ function Foreword() {
 }
 
 export default Head;
-export { Logo, Foreword };

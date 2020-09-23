@@ -86,4 +86,3 @@ function Education() {
 }
 
 export default Body;
-export { AboutMe, Education };
